@@ -1,0 +1,18 @@
+<svg id="Backward_arrow" data-name="Backward arrow" width="11.25" height="18" viewBox="0 0 11.25 18">
+  <defs>
+    <filter id="Polygon_15">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.729" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <path id="Polygon_15-2" data-name="Polygon 15" d="M9,0l9,11.25H0Z" transform="translate(0 18) rotate(-90)" fill="#f4f4f4"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Polygon_15)">
+      <path id="Polygon_15-3" data-name="Polygon 15" d="M9,0l9,11.25H0Z" transform="translate(0 18) rotate(-90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

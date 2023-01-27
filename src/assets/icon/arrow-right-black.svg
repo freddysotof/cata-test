@@ -1,0 +1,18 @@
+<svg id="Component_366_24" data-name="Component 366 – 24" width="11.25" height="18" viewBox="0 0 11.25 18">
+  <defs>
+    <filter id="Path_3174">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.729" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <path id="Path_3174-2" data-name="Path 3174" d="M9,0l9,11.25H0Z" transform="translate(11.25) rotate(90)" fill="#3b3b3b"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_3174)">
+      <path id="Path_3174-3" data-name="Path 3174" d="M9,0l9,11.25H0Z" transform="translate(11.25) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

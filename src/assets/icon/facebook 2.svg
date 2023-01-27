@@ -1,0 +1,11 @@
+<svg width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="13" height="13" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook" clip-path="url(#clip-path)">
+    <rect id="Rectangle_547" data-name="Rectangle 547" width="13" height="13" fill="none"/>
+    <path id="Path_1" data-name="Path 1" d="M84.436,13.089V7.126h2.036L86.762,4.8H84.436V3.345c0-.654.218-1.163,1.163-1.163h1.236V.073C86.544.073,85.817,0,85.017,0a2.807,2.807,0,0,0-2.981,3.054V4.8H80V7.126h2.036v5.963Z" transform="translate(-76.728)"/>
+  </g>
+</svg>
